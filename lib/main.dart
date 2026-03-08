@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:youtube_lite/core/constants/app_colors.dart';
-import 'package:youtube_lite/core/constants/app_strings.dart';
+import 'package:youtube_lite/core/app_colors.dart';
+import 'package:youtube_lite/core/app_strings.dart';
 import 'package:youtube_lite/presentation/home/screen/home_screen.dart';
 
 void main() {
